@@ -1,0 +1,11 @@
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Domain\bin\Debug\net8.0\Inventory.Domain.deps.json
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Domain\bin\Debug\net8.0\Inventory.Domain.dll
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Domain\bin\Debug\net8.0\Inventory.Domain.pdb
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.AssemblyInfoInputs.cache
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.AssemblyInfo.cs
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.csproj.CoreCompileInputs.cache
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.dll
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Domain\obj\Debug\net8.0\refint\Inventory.Domain.dll
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Domain\obj\Debug\net8.0\Inventory.Domain.pdb
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Domain\obj\Debug\net8.0\ref\Inventory.Domain.dll

@@ -1,0 +1,17 @@
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\bin\Debug\net8.0\Inventory.Infrastructure.deps.json
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\bin\Debug\net8.0\Inventory.Infrastructure.dll
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\bin\Debug\net8.0\Inventory.Infrastructure.pdb
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\bin\Debug\net8.0\Inventory.Application.dll
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\bin\Debug\net8.0\Inventory.Domain.dll
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\bin\Debug\net8.0\Inventory.Application.pdb
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\bin\Debug\net8.0\Inventory.Domain.pdb
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.csproj.AssemblyReference.cache
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.AssemblyInfoInputs.cache
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.AssemblyInfo.cs
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\Debug\net8.0\Inventor.89798F14.Up2Date
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.dll
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\Debug\net8.0\refint\Inventory.Infrastructure.dll
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.pdb
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\Debug\net8.0\ref\Inventory.Infrastructure.dll
