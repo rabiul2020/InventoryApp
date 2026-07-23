@@ -15,3 +15,6 @@ E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\
 E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\Debug\net8.0\refint\Inventory.Infrastructure.dll
 E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.pdb
 E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\Debug\net8.0\ref\Inventory.Infrastructure.dll
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.sourcelink.json
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\bin\Debug\net8.0\Inventory.Infrastructure.runtimeconfig.json
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.genruntimeconfig.cache

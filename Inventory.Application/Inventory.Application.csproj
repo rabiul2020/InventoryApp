@@ -7,19 +7,64 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Contracts\**" />
+    <EmbeddedResource Remove="Contracts\**" />
+    <None Remove="Contracts\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Inventory.Domain\Inventory.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="DTOS\" />
-    <Folder Include="Features\" />
-    <Folder Include="Behaviors\" />
-    <Folder Include="Mappings\" />
-    <Folder Include="Exceptions\" />
-    <Folder Include="Common\" />
-    <Folder Include="Contracts\" />
-    <Folder Include="Validators\" />
+    <Folder Include="Common\Models\" />
+    <Folder Include="Common\Behaviors\" />
+    <Folder Include="Common\Helpers\" />
+    <Folder Include="Features\Categories\Interfaces\" />
+    <Folder Include="Features\Categories\Mapping\" />
+    <Folder Include="Features\Categories\Services\" />
+    <Folder Include="Features\Categories\Validators\" />
+    <Folder Include="Features\Customers\DTOS\" />
+    <Folder Include="Features\Customers\Interfaces\" />
+    <Folder Include="Features\Customers\Mapping\" />
+    <Folder Include="Features\Customers\Services\" />
+    <Folder Include="Features\Customers\Validators\" />
+    <Folder Include="Features\Products\Mapping\" />
+    <Folder Include="Features\Products\Services\" />
+    <Folder Include="Features\Purchases\DTOS\" />
+    <Folder Include="Features\Purchases\Interfaces\" />
+    <Folder Include="Features\Purchases\Mapping\" />
+    <Folder Include="Features\Purchases\Services\" />
+    <Folder Include="Features\Purchases\Validators\" />
+    <Folder Include="Features\Sales\DTOS\" />
+    <Folder Include="Features\Sales\Interfaces\" />
+    <Folder Include="Features\Sales\Mapping\" />
+    <Folder Include="Features\Sales\Services\" />
+    <Folder Include="Features\Sales\Validators\" />
+    <Folder Include="Features\Suppliers\DTOS\" />
+    <Folder Include="Features\Suppliers\Interfaces\" />
+    <Folder Include="Features\Suppliers\Mapping\" />
+    <Folder Include="Features\Suppliers\Services\" />
+    <Folder Include="Features\Suppliers\Validators\" />
+    <Folder Include="Features\Users\DTOS\" />
+    <Folder Include="Features\Users\Interfaces\" />
+    <Folder Include="Features\Users\Mapping\" />
+    <Folder Include="Features\Users\Services\" />
+    <Folder Include="Features\Users\Validators\" />
+    <Folder Include="Features\WareHouses\DTOS\" />
+    <Folder Include="Features\WareHouses\Interfaces\" />
+    <Folder Include="Features\WareHouses\Mapping\" />
+    <Folder Include="Features\WareHouses\Services\" />
+    <Folder Include="Features\WareHouses\Validators\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="FluentValidation" Version="12.1.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="8.2.2" />
+    <PackageReference Include="MediatR" Version="14.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.10" />
   </ItemGroup>
 
 </Project>

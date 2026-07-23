@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inventory.Domain.Common
+namespace Inventory.Application.Features.Products.DTOS
 {
-    public class Product:BaseEntity
+    public class CreateProductRequest
     {
         public string Name { get; set; } = string.Empty;
 
@@ -22,8 +22,6 @@ namespace Inventory.Domain.Common
 
         public decimal MinimumStock { get; set; }
 
-        public Guid CategoryId { get; set; }
-
-        public Guid UnitId { get; set; }
+        public int CategoryId { get; set; }
     }
 }

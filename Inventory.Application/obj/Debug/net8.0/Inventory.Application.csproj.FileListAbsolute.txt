@@ -13,3 +13,4 @@ E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Application\obj\Deb
 E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Application\obj\Debug\net8.0\refint\Inventory.Application.dll
 E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Application\obj\Debug\net8.0\Inventory.Application.pdb
 E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Application\obj\Debug\net8.0\ref\Inventory.Application.dll
+E:\Project\InventoryEnterPrise\InventoryEnterprise\Inventory.Application\obj\Debug\net8.0\Inventory.Application.sourcelink.json

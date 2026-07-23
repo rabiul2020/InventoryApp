@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5B954D6-DB86-4536-BDF6-4B182C269541}|Inventory.Domain\\Inventory.Domain.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.domain\\common\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5B954D6-DB86-4536-BDF6-4B182C269541}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\common\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5B954D6-DB86-4536-BDF6-4B182C269541}|Inventory.Domain\\Inventory.Domain.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.domain\\interfaces\\iauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5B954D6-DB86-4536-BDF6-4B182C269541}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\interfaces\\iauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5B954D6-DB86-4536-BDF6-4B182C269541}|Inventory.Domain\\Inventory.Domain.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5B954D6-DB86-4536-BDF6-4B182C269541}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F34DE654-BFF6-4F9D-B898-66E14AAC4DAC}|Inventory.Infrastructure\\Inventory.Infrastructure.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.infrastructure\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34DE654-BFF6-4F9D-B898-66E14AAC4DAC}|Inventory.Infrastructure\\Inventory.Infrastructure.csproj|solutionrelative:inventory.infrastructure\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F34DE654-BFF6-4F9D-B898-66E14AAC4DAC}|Inventory.Infrastructure\\Inventory.Infrastructure.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.infrastructure\\inventory.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F34DE654-BFF6-4F9D-B898-66E14AAC4DAC}|Inventory.Infrastructure\\Inventory.Infrastructure.csproj|solutionrelative:inventory.infrastructure\\inventory.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.application\\inventory.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\inventory.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F34DE654-BFF6-4F9D-B898-66E14AAC4DAC}|Inventory.Infrastructure\\Inventory.Infrastructure.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34DE654-BFF6-4F9D-B898-66E14AAC4DAC}|Inventory.Infrastructure\\Inventory.Infrastructure.csproj|solutionrelative:inventory.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F638F42-1E2B-4A88-A8A0-4E7C2127A29F}|Inventory.Tests\\Inventory.Tests.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F638F42-1E2B-4A88-A8A0-4E7C2127A29F}|Inventory.Tests\\Inventory.Tests.csproj|solutionrelative:inventory.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F34DE654-BFF6-4F9D-B898-66E14AAC4DAC}|Inventory.Infrastructure\\Inventory.Infrastructure.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F34DE654-BFF6-4F9D-B898-66E14AAC4DAC}|Inventory.Infrastructure\\Inventory.Infrastructure.csproj|solutionrelative:inventory.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5B954D6-DB86-4536-BDF6-4B182C269541}|Inventory.Domain\\Inventory.Domain.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5B954D6-DB86-4536-BDF6-4B182C269541}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.application\\features\\products\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\features\\products\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.application\\features\\products\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\features\\products\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|e:\\project\\inventoryenterprise\\inventoryenterprise\\inventory.application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB51630-6A0C-461B-8FFE-DFA5E4C376D4}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +46,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Infrastructure\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Inventory.Infrastructure\\ApplicationUser.cs",
+              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Infrastructure\\ApplicationUser.cs",
+              "RelativeToolTip": "Inventory.Infrastructure\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T03:55:54.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Inventory.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Inventory.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T03:44:15.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.Infrastructure",
+              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Infrastructure\\Inventory.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Inventory.Infrastructure\\Inventory.Infrastructure.csproj",
+              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Infrastructure\\Inventory.Infrastructure.csproj",
+              "RelativeToolTip": "Inventory.Infrastructure\\Inventory.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-23T03:37:45.666Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -62,116 +101,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Domain\\Common\\Product.cs",
-              "RelativeDocumentMoniker": "Inventory.Domain\\Common\\Product.cs",
-              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Domain\\Common\\Product.cs",
-              "RelativeToolTip": "Inventory.Domain\\Common\\Product.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAswA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T04:23:54.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IAuditable.cs",
-              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Domain\\Interfaces\\IAuditable.cs",
-              "RelativeDocumentMoniker": "Inventory.Domain\\Interfaces\\IAuditable.cs",
-              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Domain\\Interfaces\\IAuditable.cs",
-              "RelativeToolTip": "Inventory.Domain\\Interfaces\\IAuditable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T04:16:40.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Domain\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Inventory.Domain\\Common\\BaseEntity.cs",
-              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Domain\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "Inventory.Domain\\Common\\BaseEntity.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAADwvxcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T04:08:54.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Inventory.Infrastructure.csproj",
-              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Infrastructure\\Inventory.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Inventory.Infrastructure\\Inventory.Infrastructure.csproj",
-              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Infrastructure\\Inventory.Infrastructure.csproj",
-              "RelativeToolTip": "Inventory.Infrastructure\\Inventory.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-19T05:03:49.295Z",
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\DependencyInjection.cs",
+              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Inventory.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T03:35:31.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Inventory.Application.csproj",
-              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\Inventory.Application.csproj",
-              "RelativeDocumentMoniker": "Inventory.Application\\Inventory.Application.csproj",
-              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\Inventory.Application.csproj",
-              "RelativeToolTip": "Inventory.Application\\Inventory.Application.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-19T05:03:24.109Z",
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Common\\Mappings\\MappingProfile.cs",
+              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Inventory.Application\\Common\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T03:35:20.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Tests\\Class1.cs",
-              "RelativeDocumentMoniker": "Inventory.Tests\\Class1.cs",
-              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Tests\\Class1.cs",
-              "RelativeToolTip": "Inventory.Tests\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Inventory.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T04:50:27.869Z"
+              "WhenOpened": "2026-07-22T14:21:59.088Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "Inventory.Infrastructure\\Class1.cs",
-              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "Inventory.Infrastructure\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\Features\\Products\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Features\\Products\\Services\\ProductService.cs",
+              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\Features\\Products\\Services\\ProductService.cs",
+              "RelativeToolTip": "Inventory.Application\\Features\\Products\\Services\\ProductService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwCgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T04:49:44.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "Inventory.Application\\Class1.cs",
-              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\Class1.cs",
-              "RelativeToolTip": "Inventory.Application\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T04:49:16.496Z"
+              "WhenOpened": "2026-07-22T14:09:26.123Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Inventory.Domain\\Class1.cs",
-              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Domain\\Class1.cs",
-              "RelativeToolTip": "Inventory.Domain\\Class1.cs",
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Inventory.Application\\Common\\Exceptions\\NotFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T04:48:16.208Z"
+              "WhenOpened": "2026-07-22T13:53:59.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\Features\\Products\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Features\\Products\\Interfaces\\IProductService.cs",
+              "ToolTip": "E:\\Project\\InventoryEnterPrise\\InventoryEnterprise\\Inventory.Application\\Features\\Products\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Inventory.Application\\Features\\Products\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T03:28:14.577Z",
+              "EditorCaption": ""
             }
           ]
         },
