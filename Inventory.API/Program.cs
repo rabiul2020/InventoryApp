@@ -1,4 +1,5 @@
 using Inventory.Application;
+using Inventory.Application.Mapping;
 using Inventory.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,8 +12,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddApplication();
-
 builder.Services.AddInfrastructure(builder.Configuration);
+
+//builder.Services.AddAutoMapper(typeof(MappingProfile));
 
 var app = builder.Build();
 
