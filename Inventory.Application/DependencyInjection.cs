@@ -13,10 +13,7 @@ namespace Inventory.Application
     {
         public static IServiceCollection AddApplication(this IServiceCollection services)
         {
-            services.AddAutoMapper(Assembly.GetExecutingAssembly());
-
-            services.AddValidatorsFromAssembly(
-                Assembly.GetExecutingAssembly());
+            services.AddAutoMapper(typeof(DependencyInjection));
 
             return services;
 

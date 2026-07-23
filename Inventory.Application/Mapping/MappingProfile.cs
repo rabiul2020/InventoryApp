@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using Inventory.Application.Features.Products.DTOS;
+using Inventory.Application.Features.DTOS;
 using Inventory.Domain.Entities;
 using System;
 using System.Collections.Generic;

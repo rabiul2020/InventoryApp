@@ -1,6 +1,6 @@
 ﻿using Inventory.Application.Common.Exceptions;
 
-namespace Inventory.Application.Common.Models;
+namespace Inventory.Application.DTOS;
 
 public class Result<T> : Result
 {

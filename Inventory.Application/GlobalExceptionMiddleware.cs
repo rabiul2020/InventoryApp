@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inventory.Application.Features.Categories.DTOS
+namespace Inventory.Application.Common.Exceptions
 {
-    public class DeleteCategoryRequest
+    public class GlobalExceptionMiddleware
     {
-        public int Id { get; set; }
     }
 }

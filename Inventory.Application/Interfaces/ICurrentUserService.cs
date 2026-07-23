@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inventory.Application.Features.Products.DTOS
+namespace Inventory.Application.Interfaces
 {
-    public class DeleteProductRequest
+    public interface ICurrentUserService
     {
-        public int Id { get; set; }
+        string? UserId { get; }
     }
 }

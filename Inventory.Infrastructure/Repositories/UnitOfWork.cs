@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inventory.Application.Common.Interfaces
+namespace Inventory.Infrastructure.Repositories
 {
-    public interface ICurrentUserService
+    public class UnitOfWork
     {
-        string? UserId { get; }
     }
 }

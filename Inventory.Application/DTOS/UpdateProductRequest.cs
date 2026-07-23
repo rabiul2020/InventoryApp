@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inventory.Application.Features.Products.DTOS
+namespace Inventory.Application.DTOS
 {
-    public class ProductDto
+    public class UpdateProductRequest
     {
         public int Id { get; set; }
 
@@ -25,7 +25,5 @@ namespace Inventory.Application.Features.Products.DTOS
         public decimal MinimumStock { get; set; }
 
         public int CategoryId { get; set; }
-
-        public string? CategoryName { get; set; }
     }
 }

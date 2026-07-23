@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Inventory.Application.Common.Interfaces;
 using Inventory.Application.Common.Models;
-using Inventory.Application.Features.Products.DTOS;
+using Inventory.Application.Features.DTOS;
 using Inventory.Application.Features.Products.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System;

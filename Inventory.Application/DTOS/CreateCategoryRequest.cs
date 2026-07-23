@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inventory.Application.Features.Categories.DTOS
+namespace Inventory.Application.DTOS
 {
     public class CreateCategoryRequest
     {

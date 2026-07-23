@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inventory.Application.Common.Interfaces
+namespace Inventory.Application.DTOS
 {
-    public interface IDateTimeService
+    public class DeleteCategoryRequest
     {
-        DateTime Now { get; }
+        public int Id { get; set; }
     }
 }

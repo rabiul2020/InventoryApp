@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inventory.Domain.Interfaces
+namespace Inventory.Application.DTOS
 {
-    public interface IAuditable
+    public class DeleteProductRequest
     {
-
+        public int Id { get; set; }
     }
 }

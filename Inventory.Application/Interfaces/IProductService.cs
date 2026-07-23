@@ -1,5 +1,5 @@
 ﻿using Inventory.Application.Common.Models;
-using Inventory.Application.Features.Products.DTOS;
+using Inventory.Application.Features.DTOS;
 using System;
 using System.Collections.Generic;
 using System.Linq;
